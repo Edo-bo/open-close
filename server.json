@@ -1,3 +1,5 @@
 [
-  Status: "Online"
+  {
+    "Status": "Online"
+  }
 ]
